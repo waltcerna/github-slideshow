@@ -3,5 +3,7 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Your text
-Use the left arrow to go back!
+> If I asked people what they wanted, they would've said "faster horses"
+>
+> -   Henry Ford
+>     Use the left arrow to go back!
